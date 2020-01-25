@@ -1,0 +1,15 @@
+{
+  "name": "basic-dark-syntax",
+  "theme": "syntax",
+  "version": "0.4.0",
+  "description": "red and blue focused dark syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme","red","blue","dark"
+  ],
+  "repository": "https://github.com/atom/spiderman-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
